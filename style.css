@@ -1,4 +1,18 @@
 body{
-    background-color: rgba(22, 21, 21, 0.952);
-    color:chartreuse
+    background-color: rgba(43, 39, 39, 0.945);
+    color:rgb(33, 162, 248);
+
+    font-family: "Sevillana", cursive;
+}
+
+header{
+    font-size: 50px;
+}
+
+h1 {
+font-size: 30px;
+}
+
+p{
+  font-size: 20px;  
 }
