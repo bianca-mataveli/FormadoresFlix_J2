@@ -1,18 +1,27 @@
 body{
-    background-color: rgba(43, 39, 39, 0.945);
-    color:rgb(33, 162, 248);
+    background-color: #1c0021;
+    color: #00a9d4;
 
     font-family: "Sevillana", cursive;
+
+    margin: 0px;
 }
 
 header{
     font-size: 50px;
+    text-align: center;
+
+    border-bottom: double 5px #1c3166;
+    padding: 30px;
+    color: #40ffdc;
 }
 
 h1 {
 font-size: 30px;
+padding-left: 30px;
 }
 
 p{
-  font-size: 20px;  
+  font-size: 20px; 
+  padding-left: 30px; 
 }
