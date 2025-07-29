@@ -48,9 +48,12 @@ img {
   overflow-x: auto;
   gap: 10px;
   padding-left: 20px;
-  padding-bottom: 40px;
 }
 
 h2 {
   padding-left: 30px;
+}
+
+body {
+  padding-bottom: 40px;
 }
